@@ -1,6 +1,6 @@
 <template>
-  <div class="max-w-2xl px-4 py-10 m-auto bg-white sm:px-8 sm:shadow dark:bg-gray-800 sm:rounded">
-    <main class="prose prose-gray dark:prose-invert max-w-none">
+  <div class="text-gray-700 dark:text-gray-200">
+    <main class="px-4 m-auto lg:px-0 max-w-[864px]">
       <slot />
     </main>
   </div>
